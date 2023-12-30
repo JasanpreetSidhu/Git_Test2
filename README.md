@@ -23,3 +23,13 @@ git push -u origin master
 git remote add origin https://github.com/Jasanpreet5/New.git
 git branch -M master
 git push -u origin master
+
+
+## ==git checkout -b branch_new==
+> creates a local branch and switch to that branch
+>
+
+## git branch -d branch_new
+> deletes a local branch
+
+
