@@ -31,5 +31,26 @@ git push -u origin master
 
 ## git branch -d branch_new
 > deletes a local branch
+>
+
+## git push origin more_commands
+> to create remote branch by pushing local branch
+>
+
+## git merge more_commands
+> merging changes from more_commands branch to the working branch
+>
+
+## git diff
+> shows changes between current files and staged area
+>
+
+## git diff --staged
+> *shows changes between staged files and commits*
+>
+
+
+
+
 
 
