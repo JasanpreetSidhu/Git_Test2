@@ -18,8 +18,8 @@ git branch -M main
 
 
 git remote add origin https://github.com/Jasanpreet5/New.git
-git push -u origin main
+git push -u origin master
 …or push an existing repository from the command line
 git remote add origin https://github.com/Jasanpreet5/New.git
-git branch -M main
-git push -u origin main
+git branch -M master
+git push -u origin master
