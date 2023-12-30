@@ -49,6 +49,37 @@ git push -u origin master
 > *shows changes between staged files and commits*
 >
 
+# Steps to use git and github
+
+## Create a local branch
+
+## Push Changes
+> Push branch to github repository after finishing with your component
+>
+
+
+## Open a pull request
+> proposing changes to base or master branch
+>
+
+
+## Discussion and Review
+> review commits
+>
+
+## Merge
+> Merge the branch to base or master branch
+>
+
+
+
+# Git Commands Continued
+
+## git commit --help
+> loads command manual in browser with full explanation of all the options
+>
+
+
 
 
 
